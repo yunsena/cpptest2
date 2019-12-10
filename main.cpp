@@ -24,7 +24,11 @@ THE SOFTWARE.
 
 int main(){ 
 
-	std::cout<<"hello"<<std::endl;
+	while(true)
+	{
+		std::cout<<"hello"<<std::endl;
+	}
+	
 
 	return 0;
 }
